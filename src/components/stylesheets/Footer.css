@@ -1,0 +1,8 @@
+.footer {
+   flex-shrink: 1;
+   display: grid;
+   place-content: center;
+   background-color: var(--yell);
+   padding-block: 25px;
+   font-family: 'Luckiest Guy';
+}

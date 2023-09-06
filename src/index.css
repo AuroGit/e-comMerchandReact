@@ -11,3 +11,53 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* Custom */
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@400;500&display=swap');
+
+:root {
+  --red: #f92d1e;
+  --blue: #8ce;
+  --yell: #fd0;
+  --green: #6c4;
+  --dark: #252530;
+  --mid-blue: #2c4466;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--dark);
+  fill: var(--dark);
+}
+
+ul { list-style: none; }
+
+a { text-decoration: none; }
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+ion-icon {
+  --size: 1em;
+  width: var(--size);
+  height: var(--size);
+}
+
+.main-container {
+  width: min(100%, 1280px);
+  margin-inline: auto;
+  flex-grow: 1;
+  background-color: #fff;
+  box-shadow: 0 0 20px #0004;
+  
+}
+
+.main { padding: 20px; }

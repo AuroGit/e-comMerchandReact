@@ -1,0 +1,440 @@
+[
+	{
+		"id": 111,
+		"category": "figuras",
+		"subCategory": "funko pop's",
+		"franchise": "stranger things",
+		"title": "Stranger Things - Eddie Munson",
+		"image": "figures/stranger-things-eddie-munson.jpg",
+		"description": "Del divertido fabricante Funko, nos llegan las irresistibles Pop! figuras de colección de Videojuegos, Cine, Televisión...<br/>Son fantásticas para coleccionar, y es que cuando haces POP! ya no hay stop!. Quedáis avisados…",
+		"price": 35.95,
+		"maker": "Funko",
+		"size": "Standard"
+	},
+	{
+		"id": 112,
+		"category": "figuras",
+		"subCategory": "funko pop's",
+		"franchise": "marvel",
+		"title": "Avengers: Endgame - Iron Spider con Guantelete de Iron Man",
+		"image": "figures/avengers-endgame-iron-spider.jpg",
+		"description": "Figura Funko Pop! de Iron Spider con Guantelete de Iron Man de la última película de Marvel Los Vengadores Endgame.<br/>Un regalo genial para los fans de Marvel, Los Vengadores y Spider-Man.",
+		"price": 14.39,
+		"maker": "Funko",
+		"size": "Standard"
+	},
+	{
+		"id": 113,
+		"category": "figuras",
+		"subCategory": "funko pop's",
+		"franchise": "disney",
+		"title": "Mulan: Mushu y Cricket",
+		"image": "figures/mulan-mushu-y-cricket.jpg",
+		"description": "Del divertido fabricante Funko, nos llegan las irresistibles Pop! figuras de colección de Videojuegos, Cine, Televisión...<br/>Son fantásticas para coleccionar, y es que cuando haces POP! ya no hay stop!. Quedáis avisados…",
+		"price": 14.39,
+		"maker": "Funko",
+		"size": "Standard"
+	},
+	{
+		"id": 114,
+		"category": "figuras",
+		"subCategory": "funko pop's",
+		"franchise": "digimon",
+		"title": "Digimon S1 - Tai",
+		"image": "figures/digimon-tai.jpeg",
+		"description": "Del divertido fabricante Funko, nos llegan las irresistibles Pop! figuras de colección de Videojuegos, Cine, Televisión...<br/>Son fantásticas para coleccionar, y es que cuando haces POP! ya no hay stop!. Quedáis avisados…",
+		"price": 16.95,
+		"maker": "Funko",
+		"size": "Standard"
+	},
+	{
+		"id": 115,
+		"category": "figuras",
+		"subCategory": "funko pop's",
+		"franchise": "harry potter",
+		"title": "Harry Potter - Harry con el Carrito",
+		"image": "figures/harry-potter.jpg",
+		"description": "Impresionante figura Funko Pop Deluxe de Harry Potter empujando el carrito con Hedwig y la maleta de la saga de películas Harry Potter.<br/>Un regalo genial para los fans de Harry Potter y de la saga Animales Fantásticos y Dónde Encontrarlos.",
+		"price": 29.99,
+		"maker": "Funko",
+		"size": "Standard"
+	},
+	{
+		"id": 121,
+		"category": "figuras",
+		"subCategory": "figuras",
+		"franchise": "star wars",
+		"title": "Figura The Mandalorian: Luke Skywalker y Grogu",
+		"image": "figures/mandalorian.jpg",
+		"description": "Figura de edicion limitada y numerada de El mandaloriano. Es la num. 6 de 3000 unidades. Pieza realizada en resina de gran calidad.",
+		"price": 199.95,
+		"maker": null,
+		"size": "25cm"
+	},
+	{
+		"id": 122,
+		"category": "figuras",
+		"subCategory": "figuras",
+		"franchise": "marvel",
+		"title": "Busto Escala 1/2 de Iron Man",
+		"image": "figures/iron-man.jpg",
+		"description": "Un artículo que tiene unos detalles increibles, mide 25cm y es una edición limitada a 1000 unidades numeradas manualmente, e incluye un certificado de autenticidad.<br/>Un regalo genial para los fans de Marvel y de Los Vengadores.",
+		"price": 166.49,
+		"maker": null,
+		"size": "25cm"
+	},
+	{
+		"id": 123,
+		"category": "figuras",
+		"subCategory": "figuras",
+		"franchise": "disney",
+		"title": "Figura Toy Story - Buzz Lightyear",
+		"image": "figures/buzz-lightyear.jpg",
+		"description": "Figura de Buzz Lightyear de Sega, una figura con unos detalles increíbles.<br/>Un regalo genial para los fans de Disney y Toy Story.",
+		"price": 40.49,
+		"maker": "Sega",
+		"size": "20cm"
+	},
+	{
+		"id": 124,
+		"category": "figuras",
+		"subCategory": "figuras",
+		"franchise": "dragon ball",
+		"title": "Dragon Ball Z - Figura Super Solid Edge Works Super Saiyan Gogeta",
+		"image": "figures/gogeta.jpg",
+		"description": "Banpresto presenta esta figura de Super Saiyan Gogeta para la línea de figuras Super Solid Edge Works basadas en la popular serie de anime \"Dragon Ball Z\".",
+		"price": 34.99,
+		"maker": "Banpresto",
+		"size": "13cm"
+	},
+	{
+		"id": 125,
+		"category": "figuras",
+		"subCategory": "figuras",
+		"franchise": "assassin's creed",
+		"title": "Assassin's Creed: Syndicate - Estatua \"Evie Frye\"",
+		"image": "figures/evie-frye.jpg",
+		"description": "Bastón espada y guantelete con hoja oculta muy detallados.<br/>Una botella de un brebaje y una caja de madera de mercancía tal y como salen en el juego, símbolos del poder comercial del Londres victoriano.<br/>Una rata de cloaca, típica de la época.<br/>Cada caja incluye una litografía especial de Evie Frye.",
+		"price": 44.95,
+		"maker": "Ubisoft",
+		"size": "22cm"
+	},
+
+	{
+		"id": 211,
+		"category": "comics",
+		"subCategory": "comic",
+		"franchise": "marvel",
+		"title": "Marvel Edición Integral Ultimate 01 Spiderman",
+		"image": "comics/ultimate-spiderman-1.jpeg",
+		"description": "¡El Universo Marvel definitivo!<br/>A finales del año 2000, Marvel decidió relanzar sus principales colecciones en un universo alternativo en el que las aventuras de Spiderman, Los Vengadores o La Patrulla-X comenzarían desde el principio ¡pero con una historia completamente nueva, adaptada al siglo XXI, realizada por los mejores autores de la industria del cómic!<br/>En esta 1a entrega, 'Ultimate Spiderman 1: Poder y responsabilidad':<br/>«Un gran poder conlleva una gran responsabilidad». Con esas palabras, Stan Lee y Steve Ditko presentaron al mejor superhéroe que haya conocido jamás el mundo: El Asombroso Spiderman. Transcurridos cincuenta años de su creación, y después de que el personaje haya traspasado las fronteras de los cómics para alzarse como uno de los mayores iconos de nuestra era, llega el momento de poner el contador a cero.<br/>Brian Michael Bendis, el guionista más importante del siglo XXI, se une al legendario dibujante Mark Bagley para ofrecer una completa reinterpretación del mito de Spiderman, como si nunca antes hubiera existido, en una colección irrepetible, capaz de conquistar a millones de lectores en todo el planeta. ¡El Universo Ultimate comienza aquí!",
+		"price": 3.79,
+		"editorial": "Marvel Comics",
+		"author": "Guión: Brian Michael Bendis<br/>Dibujo: Mark Bagley"
+	},
+	{
+		"id": 212,
+		"category": "comics",
+		"subCategory": "comic",
+		"franchise": "tortugas ninja",
+		"title": "Las Tortugas Ninja: El Último Ronin 01/05 los Años Perdidos",
+		"image": "comics/tortugas-ninja.jpg",
+		"description": "¡Nueva serie! Michelangelo ha perdido todo. Su familia ha sido asesinada pero todavía queda mucho para que imponga justicia sobre los culpables.",
+		"price": 3.33,
+		"editorial": "ECC Ediciones",
+		"author": "Kevin Eastman & Tom Waltz"
+	},
+	{
+		"id": 213,
+		"category": "comics",
+		"subCategory": "comic",
+		"franchise": "dc",
+		"title": "Batman: El Último Caballero de la Tierra (Integral)",
+		"image": "comics/batman.jpeg",
+		"description": "En el futuro, dentro de 20 años, Bruce Wayne despierta en el Asilo Arkham. Joven. Cuerdo. Y... nunca ha sido Batman. Para resolver el misterio de su pasado, el Caballero Oscuro se embarca en una gran misión de búsqueda a través de ese mundo desconocido, en el que encuentra versiones futuristas de viejos amigos y enemigos, entre ellos un siniestro compañero de viaje: la cabeza del Joker. Aún viva de algún modo, la testa cortada del Joker se convierte en su tétrica guía por los paisajes del devastado Universo DC.<br/>Pero, para descubrir la causa de este horrible futuro, tendrá que encontrar la fuerza innombrable que destruyó el mundo que él conocía.<br/>Esta podría ser la última historia de Batman jamás contada…<br/>El deslumbrante equipo creativo formado por Scott Snyder y Greg Capullo (Batman: El Tribunal de los Búhos, Noches oscuras: Metal) pone fin a una década junto al Cruzado de la Capa con Batman: El último caballero de la Tierra.",
+		"price": 20.42,
+		"editorial": "DC Comics",
+		"author": "Scott Snyder & Greg Capullo"
+	},
+	{
+		"id": 214,
+		"category": "comics",
+		"subCategory": "comic",
+		"franchise": "marvel",
+		"title": "Yo Soy Doctor Extraño",
+		"image": "comics/doctor-extrano.jpg",
+		"description": "¡Un completo y documentado recorrido por toda la historia del Hechicero Supremo, desde su mítico debut a la actualidad! Los comienzos de la mano de Stan Lee y Steve Ditko, un alucinante cruce con El Asombroso Spiderman, la interpretación de su origen a cargo de Barry Smith, la reinvención del personaje a cargo de Steve Englehart y Frank Brunner a mediados de los años setenta, el cruce con Drácula, con Gene Colan al dibujo, y también las más modernas interpretaciones del personaje, en un tomo conducido por David Aliaga, imprescindible para quien quiera acercarse por primera vez al Señor de las Artes Místicas. ",
+		"price": 33.25,
+		"editorial": "Panini Comics",
+		"author": "David Aliaga"
+	},
+	{
+		"id": 221,
+		"category": "comics",
+		"subCategory": "manga",
+		"franchise": "dragon ball",
+		"title": "Dragon Ball Ultimate 13",
+		"image": "comics/dragon-ball-ultimate-13.jpg",
+		"description": "Son Goku es un chico muy especial que, tras la muerte de su abuelo, vive solo en el bosque. Posee una fuerza prodigiosa y parece bastante satisfecho con su vida al aire libre hasta que conoce a Bulma, una niña pija que está buscando las Bolas de Dragón, siete esferas mágicas que, una vez reunidas, pueden conceder cualquier deseo.<br/>Casualmente, Goku posee una de ellas, la de cuatro estrellas, por lo que a Bulma le cuesta un poco convencerle de que se una a ella en su búsqueda...",
+		"price": 12.30,
+		"editorial": "Planeta Comic",
+		"author": "Akira Toriyama"
+	},
+	{
+		"id": 222,
+		"category": "comics",
+		"subCategory": "manga",
+		"franchise": "spy x family",
+		"title": "Spy X Family 01",
+		"image": "comics/spyxfamily.jpg",
+		"description": "Los países de Westalis y Ostania libran desde hace años una guerra fría donde el espionaje y los asesinatos son moneda corriente. El inigualable espía conocido como \"Twilight\" es el mejor agente de Westalis que tiene por objetivo encargarse del poderoso Donovan Desmond. La putada es que Desmond es un ermitaño antisocial cuyas únicas apariciones públicas son en los actos escolares de su hijo. Twilight deberá acercarse al objetivo lo suficiente como para desbaratar su agenda secreta. Para ello, sólo deberá simular que es un hombre de familia... con el pequeño detalle de que sólo tiene 7 días para conseguir la familia ideal.",
+		"price": 7.60,
+		"editorial": "Ivrea",
+		"author": "Tatsuya Endo"
+	},
+	{
+		"id": 223,
+		"category": "comics",
+		"subCategory": "manga",
+		"franchise": "my hero academia",
+		"title": "My Hero Academia tomo nº 23",
+		"image": "comics/my-hero-academia.jpg",
+		"description": "¡Un shônen lleno de acción, fantasía y ciencia-ficción! ¡La nueva técnica de Midoriya pinta peligrosa! ¡Desde que le salió esa cosa negra está muy raro! ¿¡Eh!? ¡Pero si están todos! ¡Una gran batalla con los dones de todos ellos.",
+		"price": 7.55,
+		"editorial": "Planeta Comic",
+		"author": "Kohei Horikoshi"
+	},
+	{
+		"id": 224,
+		"category": "comics",
+		"subCategory": "manga",
+		"franchise": "demon slayer",
+		"title": "Guardianes de la noche 10",
+		"image": "comics/demon-slayer.png",
+		"description": "LOS CAZADEMONIOS SE ENFRENTAN CARA A CARA CONTRA DAKI, LA LUNA SUPERIOR! Daki, la oiran demoníaca que ha estado ejerciendo su do- minio sobre el barrio del placer, se fusiona con su faja y ataca a Tanjirô con una fuerza descomunal. Tanjirô con- traataca con su danza sagrada del dios del fuego, pero acaba al límite de sus fuerzas. Nezuko y Uzui intentarán tomarle el relevo, pero la batalla contra la Luna superior acabará dando un giro inesperado...",
+		"price": 7.60,
+		"editorial": "Norma Editorial",
+		"author": "Koyoharu Gotouge"
+	},
+
+	{
+		"id": 311,
+		"category": "merchandising",
+		"subCategory": "tazas",
+		"franchise": "harry potter",
+		"title": "Harry Potter - Taza Gryffindor Slogan",
+		"image": "merch/taza-gryffindor.jpg",
+		"description": "- Tamaño King (460ml).<br/>- Proceso de impresión de alta calidad. Apto para el lavavajillas.<br/>- Apto para microondas.<br/>- Material de cerámica.",
+		"price": 14.95
+	},
+	{
+		"id": 312,
+		"category": "merchandising",
+		"subCategory": "tazas",
+		"franchise": "miercoles",
+		"title": "Wednesay - Taza Miércoles Dark Side",
+		"image": "merch/taza-wednesday.jpg",
+		"description": "- Taza de alta calidad.<br/>- Licencia oficial<br/>- Capacidad: 0.315 litros.<br/>- Material: cerámica.",
+		"price": 12.95
+	},
+	{
+		"id": 313,
+		"category": "merchandising",
+		"subCategory": "tazas",
+		"franchise": "juego de tronos",
+		"title": "Taza de Juego De Tronos: You Know Nothing Jon Snow",
+		"image": "merch/taza-jon-snow.jpg",
+		"description": "Taza de Juego De Tronos de 460ml en la que sale Ygritte y Jon Nieve con el mensaje de \"You Know Nothing\" Tú no sabes nada.<br/>Muy buena calidad tanto en acabados como en detalles.<br/>Es una taza ideal para regalo para todos los fans de Game Of Thrones.<br/><u>Nota: no apta para microondas ni lavavajillas</u>",
+		"price": 13.49
+	},
+	{
+		"id": 321,
+		"category": "merchandising",
+		"subCategory": "posters",
+		"franchise": "zelda",
+		"title": "Póster Zelda Breath Of The Wild",
+		"image": "merch/poster-zelda.jpg",
+		"description": "Increible póster de 61 x 91cm de Zelda Breath Of The Wild.<br/>Un regalo genial para los fans del videojuego The Legend of Zelda.<br/>Es una impresión espectacular en un papel de alta calidad y con un colorido asombroso.",
+		"price": 6.29
+	},
+	{
+		"id": 322,
+		"category": "merchandising",
+		"subCategory": "posters",
+		"franchise": "dc",
+		"title": "Póster Harley Quinn Kiss",
+		"image": "merch/poster-harley-quinn.jpg",
+		"description": "Impreso en papel de gran calidad.<br/>Tamaño aprox. 61 x 91,5 cm.<br/>Licencia oficial.",
+		"price": 7.00
+	},
+	{
+		"id": 323,
+		"category": "merchandising",
+		"subCategory": "posters",
+		"franchise": "tiburon",
+		"title": "Póster Tiburón Key Art",
+		"image": "merch/poster-jaws.jpg",
+		"description": "Impreso en papel de gran calidad.<br/>Tamaño aprox. 61 x 91,5 cm.<br/>Licencia oficial.",
+		"price": 7.00
+	},
+	{
+		"id": 331,
+		"category": "merchandising",
+		"subCategory": "peluches",
+		"franchise": "assassinaton classroom",
+		"title": "Assassinaton Classroom - Peluche Koro Sensei",
+		"image": "merch/peluche-koro-sensei.jpeg",
+		"description": "- Peluche de alta calidad<br/>- Licencia oficial<br/>- Tamaño: 12 cm<br/>- Material: 100% Poliéster",
+		"price": 14.95
+	},
+	{
+		"id": 332,
+		"category": "merchandising",
+		"subCategory": "peluches",
+		"franchise": "disney",
+		"title": "Peluche de El Rey Leon - Simba Grande",
+		"image": "merch/peluche-simba.jpg",
+		"description": "Peluche de Simba de la película El Rey Leon de 20cm con una calidad increible, tanto en las costuras como en el tejido.<br/>Un regalo genial para los fans de Disney",
+		"price": 16.19
+	},
+	{
+		"id": 333,
+		"category": "merchandising",
+		"subCategory": "peluches",
+		"franchise": "dragon ball",
+		"title": "Dragon Ball - Cojín bola de dragon",
+		"image": "merch/peluche-dragon-ball.jpg",
+		"description": "La famosa bola de cristal entra a tu hogar con este cojín Dragon Ball de ABYstyle.<br/>- Material: Velboa HS con bordado + tejido de poliéster.<br/>- Dimensiones: aprox. 30 centimetros. Espesor: aprox. 8cm<br/>- Personaje: Crystal Ball",
+		"price": 26.95
+	},
+
+	{
+		"id": 411,
+		"category": "ropa",
+		"subCategory": "camisetas",
+		"franchise": "stranger things",
+		"title": "Camiseta Pop! Tees - Stranger Things Hell Fire Club",
+		"image": "clothing/camiseta-stranger-things.png",
+		"description": "Del divertido fabricante Funko, nos llegan las irresistibles camisetas Pop!, protegidas por una caja.<br/>Material: 100% algodón.",
+		"price": 27.95,
+		"sizes": ["s","m","l","xl"]
+	},
+	{
+		"id": 412,
+		"category": "ropa",
+		"subCategory": "camisetas",
+		"franchise": "dragon ball",
+		"title": "Camiseta Dragon Ball Z",
+		"image": "clothing/camiseta-dragon-ball.jpg",
+		"description": "Camiseta naranja de Dragon Ball con el simbolo del Kame.<br/>Disponible en varias tallas.<br/>Un regalo genial para los fans de Bola de Dragon.",
+		"price": 9.99,
+		"sizes": ["s","l"]
+	},
+	{
+		"id": 413,
+		"category": "ropa",
+		"subCategory": "camisetas",
+		"franchise": "god of war",
+		"title": "God of War - Camiseta Kratos Ojo",
+		"image": "clothing/camiseta-kratos.jpeg",
+		"description": "- Camiseta de alta calidad<br/>- Licencia oficial<br/>- Material: 100% Algodón.",
+		"price": 9.95,
+		"sizes": ["s"]
+	},
+	{
+		"id": 421,
+		"category": "ropa",
+		"subCategory": "sudaderas",
+		"franchise": "resident evil",
+		"title": "Sudadera - Resident Evil \"Umbrella Company\"",
+		"image": "clothing/sudadera-resident-evil.jpg",
+		"description": "Color: Blanco/Negro.<br/>Material: 100% Poliéster.<br/>Modelo: hombre.<br/><mark>Producto oficial de Resident Evil / Capcom.</mark>",
+		"price": 49.95,
+		"sizes": ["s","m","l","xl"]
+	},
+	{
+		"id": 422,
+		"category": "ropa",
+		"subCategory": "sudaderas",
+		"franchise": "zelda",
+		"title": "The Legend of Zelda Sudadera capucha Chica Zelda",
+		"image": "clothing/sudadera-zelda.jpg",
+		"description": "Sudadera capucha de alta calidad.<br/>Modelo: Skyward Sword para Chica.<br/><mark>Licencia oficial.</mark><br/>Embalaje: bolsa de polipropileno.<br/>Material: 80% Algodón, 20% Poliéster.",
+		"price": 44.95,
+		"sizes": ["s","m","l","xl"]
+	},
+	{
+		"id": 423,
+		"category": "ropa",
+		"subCategory": "sudaderas",
+		"franchise": "naruto",
+		"title": "Naruto - Sudadera Konoha Heart",
+		"image": "clothing/sudadera-naruto.jpg",
+		"description": "- Sudadera de alta calidad<br/>- Licencia oficial<br/>- Embalaje: bolsa de polipropileno<br/>- Material: 100% Algodón",
+		"price": 32.95,
+		"sizes": ["s","m","l"]
+	},
+	{
+		"id": 431,
+		"category": "ropa",
+		"subCategory": "otros",
+		"franchise": "playStation",
+		"title": "PlayStation - Bufanda Logo",
+		"image": "clothing/bufanda-playstation.jpg",
+		"description": "100% acrílico súper blando.<br/>Material: Acrílico.<br/>Producto oficial de Sony PlayStation.<br/>Modelo: Logo PlayStation.",
+		"price": 19.95,
+		"sizes": []
+	},
+	{
+		"id": 432,
+		"category": "ropa",
+		"subCategory": "otros",
+		"franchise": "assassin's creed",
+		"title": "Pulsera de cuero - Assassin's Creed Unity \"Crest Logo\"",
+		"image": "clothing/pulsera-assassins-creed.jpg",
+		"description": "Pulsera de cuero PU de alta calidad con el Logo del videojuego Assassin's Creed Unity.",
+		"price": 12.95,
+		"sizes": []
+	},
+
+	{
+		"id": 501,
+		"category": "juegos de mesa",
+		"title": "Mascarade Nueva Edición",
+		"image": "games/mascarade.png",
+		"description": "Mascarade es un juego de engaño de 2 a 13 jugadores, diseñado por el genial Bruno Faidutti.<br/>Cada jugador recibe una carta de personaje, boca abajo. Durante la partida, los jugadores intercambiarán sus personajes, ¡de forma que nadie esté nunca seguro de la carta que tiene frente a sí mismo!<br/>El objetivo del juego es utilizar los poderes de los personajes para obtener 13 monedas de oro. Sin embargo, si un jugador quiebra, la partida termina inmediatamente y gana la partida el jugador más rico.",
+		"price": 19.95
+	},
+	{
+		"id": 502,
+		"category": "juegos de mesa",
+		"title": "Exploding Kittens",
+		"image": "games/exploding-kittens.jpg",
+		"description": "Se trata de una versión gatuna de la ruleta rusa con un gran componente estratégico. Los jugadores van robando cartas hasta que a alguien le sale un Exploding.",
+		"price": 19.99
+	},
+	{
+		"id": 503,
+		"category": "juegos de mesa",
+		"title": "Jungle Speed",
+		"image": "games/jungle-speed.jpg",
+		"description": "Jungle Speed es un juego de velocidad y reflejos, en el que cada jugador tendrá que deshacerse de sus cartas para ganar. Se reparten todas las cartas entre los jugadores y por turnos, levantan sus cartas de una en una, lo más rápidamente posible. Si dos (o más) rivales tienen la misma carta, tendrán que coger el Tótem, situado en el centro de la mesa!",
+		"price": 17.99
+	},
+	{
+		"id": 504,
+		"category": "juegos de mesa",
+		"title": "Hombres Lobo Exp. La Aldea",
+		"image": "games/aldea.jpg",
+		"description": "Bienvenido seas a la nueva aldea de Castronegro, forastero... Tras la tragedia acontecida durante la \"Luna Nueva\", no quedó de la otrora pintoresca aldea de Castronegro más que ruinas desiertas.<br/>A lo largo de los años, unos valientes extranjeros la han ido reconstruyendo, piedra a piedra, gracias a la fortuna que ellos mismos amasaron con la publicación de sus últimas aventuras. Además han realizado un llamamiento dirigido a todos aquellos aventureros sin hogar, invitándoles a formar parte de esta nueva emplazamiento sin par.",
+		"price": 10.44
+	},
+	{
+		"id": 505,
+		"category": "juegos de mesa",
+		"title": "Mal Trago",
+		"image": "games/mal-trago.jpg",
+		"description": "¡Sobrevive a las pociones de la bruja y conviértete en el último goblin superviviente!<br/>Mal Trago es un party-goblin para grupos de 4 a 10 goblins, recomendado para goblins a partir de 8 años y con una duración aproximada de 15-20 minutos goblin. En Mal Trago encontraremos pociones, conjuros, antídotos, goblins y sobretodo... ¡MUCHAS RISAS!<br/>¿He dicho ya que hay goblins?<br/>Contenido: 10 cartas de goblin, 13 pociones mortales, 30 pociones seguras, 50 cartas de acción, 1 marcador de turno, 1 carta de la BeZtia y 10 fichas de antídoto.",
+		"price": 14.95
+	}
+]

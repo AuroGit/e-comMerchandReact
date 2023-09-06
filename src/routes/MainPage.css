@@ -1,0 +1,8 @@
+.product-gallery {
+   display: grid;
+   grid-gap: 25px;
+   grid-template-columns: repeat(3, 1fr);
+}
+@media screen and (max-width: 720px) {
+   .product-gallery { grid-template-columns: 1fr; }
+}

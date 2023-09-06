@@ -1,0 +1,49 @@
+.cart-main{
+   display: grid;
+   grid-gap: 25px;
+   place-items: center;
+}
+
+#cartpage-footer {
+   background-color: var(--mid-blue);
+   color: #fff;
+   padding: 25px;
+   display: grid;
+   grid-gap: 10px;
+   place-content: center;
+   grid-template-columns: 1fr;
+}
+#cartpage-footer .total-amount { text-align: center; color: #fff; }
+#cartpage-footer .cart-options {
+   display: flex;
+   gap: 5px;
+   width: min(100%, 480px);
+   margin-inline: auto;
+}
+#cartpage-footer button {
+   font-family: 'Zen Dots', sans-serif;
+   padding: 10px;
+   border-radius: 50px 0 0 50px;
+   background: none;
+   border: solid 2px #fff;
+   color: #fff;
+   flex: 1 1;
+   cursor: pointer;
+   transition-property: color, background;
+   transition-duration: .2s;
+}
+#cartpage-footer #pay {
+   border-radius: 0 50px 50px 0;
+   background-color: var(--red);
+   color: #fff;
+}
+#cartpage-footer button:hover,
+#cartpage-footer #pay:hover {
+   background-color: #fff;
+   color: var(--red);
+}
+
+.empty-cart {
+   color: #aaa;
+   text-align: center;
+ }

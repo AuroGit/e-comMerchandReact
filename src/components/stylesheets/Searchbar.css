@@ -1,0 +1,104 @@
+.searchbar-container {
+   background-color: var(--dark);
+   padding: 25px 30px;
+}
+
+.searchbar-container #search-form {
+   position: relative;
+   display: flex;
+   gap: 10px;
+}
+
+.searchbar-container .search-bar { flex-grow: 1; }
+
+#search-form input {
+   width: 100%;
+   height: 30px;
+   background-color: #fff8;
+   border-radius: 5px;
+   border: solid 1px #fff;
+   padding-inline: 10px;
+   transition: background .2s;
+}
+#search-form input:hover { background-color: #fff8; }
+#search-form input:focus { outline: none; background-color: #fff; }
+#search-form input::-moz-selection {
+   background-color: var(--red);
+   color: #fff;
+}
+#search-form input::selection {
+   background-color: var(--red);
+   color: #fff;
+}
+
+#search-form button {
+   border: none;
+   background: none;
+   cursor: pointer;
+}
+#search-form button:hover ion-icon { fill: var(--blue); }
+#search-form ion-icon {
+   --size: 2em;
+   fill: #fff;
+   transition: fill .2s;
+}
+
+#search-form .suggestions {
+   position: absolute;
+   z-index: 10;
+   display: none;
+   flex-direction: column;
+   width: 75%;
+   background-color: #fff;
+   border-radius: 5px;
+   box-shadow: 0 0 10px #8888;
+}
+#search-form:has( input:focus ) .suggestions { display: block; }
+#search-form .suggestions li {
+   margin: 5px;
+   padding: 5px;
+   border-radius: 5px;
+   transition: background .2s;
+}
+#search-form .suggestions li:hover {
+   background-color: #eee;
+}
+
+/* Filters */
+.filters-container {
+   height: 0;
+   overflow: hidden;
+   background-color: var(--dark);
+   display: flex;
+   transition: height .2s;
+}
+.filters-container.active { height: 350px; }
+
+.filters {
+   padding-inline: 25px;
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+   width: 100%;
+}
+   @media screen and (min-width: 798px) {
+      .filters { padding-inline: 200px; }
+   }
+
+.filters .filter {
+   width: 100%;
+   padding: 10px;
+   border-radius: 5px;
+   border: none;
+   font-family: 'Oxanium', sans-serif;
+}
+
+   /* Stock */
+.stock-filter { display: grid; row-gap: 10px; }
+.stock-filter label { color: #fff; cursor: pointer; }
+.stock-filter .stock-options { display: grid; row-gap: 5px; }
+.stock-filter .stock-option {
+   display: block;
+   accent-color: var(--red);
+}
+.stock-filter input[type='radio'] { margin-right: 5px; }

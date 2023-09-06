@@ -1,0 +1,9 @@
+.sort-select {
+   display: flex;
+   justify-content: center;
+   margin-bottom: 15px;
+   gap: 10px;
+   font-family: 'Oxanium';
+}
+
+.sort-select option { font-family: 'Oxanium'; }

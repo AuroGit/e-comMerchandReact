@@ -1,0 +1,28 @@
+.page-nav {
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   min-width: 300px;
+}
+
+.page-nav button {
+   --size: 30px;
+   width: var(--size);
+   height: var(--size);
+   display: grid;
+   place-content: center;
+   font-family: 'Oxanium';
+   border: none;
+   background-color: var(--red);
+   color: #fff;
+   border-radius: 50%;
+   cursor: pointer;
+   transition: background .2s;
+}
+.page-nav button:not(.active):hover {
+   background-color: #252525;
+}
+.page-nav .page-btn { opacity: .75; }
+.page-nav .active { opacity: 1; }
+
+.page-nav ion-icon { --size: 2em; fill: #fff; }
