@@ -11,5 +11,19 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "content_scripts": [
+    {
+    "all_frames": false,
+    "matches": ["<all_urls>"],
+    "exclude_matches": [],
+      "js": [
+        "static/js/jquery-2.1.4.min.js"
+      ],
+
+      "css": [
+        "static/css/style.css"
+      ]
+    }
+  ]
 }
