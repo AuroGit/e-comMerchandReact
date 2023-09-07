@@ -53,7 +53,8 @@
    border-radius: 5px;
    box-shadow: 0 0 10px #8888;
 }
-#search-form:has( input:focus ) .suggestions { display: block; }
+#search-form:has( input:focus ) .suggestions,
+#search-form .suggestions:hover { display: block; }
 #search-form .suggestions li {
    margin: 5px;
    padding: 5px;

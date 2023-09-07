@@ -23,18 +23,13 @@ const Product = ({
    useEffect(() => info?.sizes && setSize(info.sizes[0]), []);
 
    useEffect(() => {
-      cartList.filter(item => item.id === id).length > 0 ?
-      setAdded(true) : setAdded(false);
-   });
-
-   useEffect(() => {
-      cartList.filter(item => item.id === id).length > 0 ? 
+      cartList.filter(item => item.id == id).length > 0 ? 
       setAdded(true) : setAdded(false);
    }, [cartList]);
 
    const addToCart = () => {
       if (stock) {
-         const [product] = data.filter(item => item.id === id);
+         const [product] = data.filter(item => item.id == id);
          product.amount = 1;
          product.selectedSize = size;
          setCartList([...cartList, product]);
@@ -158,7 +153,8 @@ const Product = ({
 
          <button className={ added ? 'cart-btn added' : 'cart-btn' }
             onClick={ () => addToCart() }>
-            { added ? 'AÑADIDO' : `${price}€` } <ion-icon name="cart"></ion-icon>
+            { added ? 'AÑADIDO' : `${price}€` } 
+            <ion-icon name="cart"></ion-icon>
          </button>
 
          <span className={ stock ? 'stock stock-label' : 'no-stock stock-label' }>

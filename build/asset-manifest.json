@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/e-comMerchandReact/build/static/css/main.1d9f8e05.css",
-    "main.js": "/e-comMerchandReact/build/static/js/main.66ba40da.js",
+    "main.css": "/e-comMerchandReact/build/static/css/main.5accefb5.css",
+    "main.js": "/e-comMerchandReact/build/static/js/main.a12ac55d.js",
     "static/media/camiseta-stranger-things.png": "/e-comMerchandReact/build/static/media/camiseta-stranger-things.52c457aa68892668ca0b.png",
     "static/media/bufanda-playstation.jpg": "/e-comMerchandReact/build/static/media/bufanda-playstation.a5b23fb97ca433e3b8d2.jpg",
     "static/media/mascarade.png": "/e-comMerchandReact/build/static/media/mascarade.66749749db9ee73690f9.png",
@@ -44,11 +44,11 @@
     "static/media/logo-ecomMerchand.png": "/e-comMerchandReact/build/static/media/logo-ecomMerchand.27f8dc40435eb6377288.png",
     "static/media/mandalorian.jpg": "/e-comMerchandReact/build/static/media/mandalorian.8d7f40076f9ab55ee03c.jpg",
     "index.html": "/e-comMerchandReact/build/index.html",
-    "main.1d9f8e05.css.map": "/e-comMerchandReact/build/static/css/main.1d9f8e05.css.map",
-    "main.66ba40da.js.map": "/e-comMerchandReact/build/static/js/main.66ba40da.js.map"
+    "main.5accefb5.css.map": "/e-comMerchandReact/build/static/css/main.5accefb5.css.map",
+    "main.a12ac55d.js.map": "/e-comMerchandReact/build/static/js/main.a12ac55d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d9f8e05.css",
-    "static/js/main.66ba40da.js"
+    "static/css/main.5accefb5.css",
+    "static/js/main.a12ac55d.js"
   ]
 }
